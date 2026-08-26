@@ -60,9 +60,10 @@
 
 | 專案 | 一句話 | 技術 |
 |---|---|---|
-| [🧩 AI 拖延症分析與任務粉碎機](https://taica-llm.onrender.com/) | 分析拖延成因，把大任務粉碎成最小步驟，完成後解鎖可 3D 列印的模型零件 | `Groq API` `Flask` `Supabase` `STL` |
+| 🧩 [AI 拖延症分析與任務粉碎機](https://github.com/mintguesss/TAICA_LLM) | 分析拖延成因，把大任務粉碎成最小步驟，完成後解鎖可 3D 列印的模型零件（[線上試用](https://taica-llm.onrender.com/)） | `Groq API` `Flask` `Supabase` `STL` |
+| 💰 [PromptMiser](https://github.com/mintguesss/PromptMiser) | 即時計算一段文字在各家模型會用掉多少 token、哪家便宜，並壓縮冗詞給出省錢建議 | `Vue 3` `FastAPI` `tiktoken` |
+| 📊 [ClaudeQuota](https://github.com/mintguesss/ClaudeQuota) | Windows 系統列小工具，即時顯示 Claude 訂閱的 5 小時與每週用量 | `Python` `Win32 API` |
 | 🔐 AI 輔助 WAF 攻擊偵測系統 | Human-in-the-Loop 增量學習 + SHAP 可解釋分析，自動生成 WAF 規則建議 | `PyTAIL` `SHAP` `Transformer` |
-| 💰 PromptMiser | 貼上 prompt，估算各模型花費與可壓縮空間，輸出精簡版與省錢建議 | `Vue 3` `FastAPI` `tiktoken` |
 
 ---
 
