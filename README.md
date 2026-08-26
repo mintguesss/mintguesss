@@ -37,7 +37,7 @@
 
 ---
 
-### 📈 [Folio Manager](https://github.com/mintguesss/stock-manager)
+### 📈 [Folio Manager](https://github.com/mintguesss/Folio-manager)
 
 個人財務 + 投資管理 Web App，可安裝為 PWA。
 台股美股均以 **FIFO** 計算已實現損益，美股另存歷史匯率獨立追蹤台幣成本，避免以當日匯率換算失真；盤中依開盤時段動態節流背景同步股價，並用 Supabase RLS 做多使用者資料隔離。
