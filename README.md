@@ -4,9 +4,13 @@
 
 **電腦視覺 · 機器學習 · 全端開發**
 
-輔仁大學資訊管理學系畢業（班排前十 / 書卷獎），2026 年起就讀國立中央大學資訊管理研究所。
-研究方向是電腦視覺、機器學習應用與情緒辨識；也做 NLP 與全端。
-喜歡從零訓練模型、拆解難題，更喜歡把成果做成看得見、用得到的產品。
+輔仁大學資訊管理學系畢業（班排前十 / 書卷獎）<br>
+2026 年起就讀國立中央大學資訊管理研究所，研究電腦視覺、機器學習應用與情緒辨識，也做 NLP 與全端
+
+<br>
+
+比起把模型分數推高，更在意它在真實情境裡撐不撐得住<br>
+習慣從實測的痛點反推工程解法，把研究做成看得見、用得到的產品
 
 <br>
 
@@ -32,7 +36,7 @@
 多模態詐騙偵測平台。貼文字、貼網址或上傳截圖，幾秒內給出詐騙機率與完整分析報告。
 後端整合 **BERT 語意分類**、**PaddleOCR** 截圖取字、無頭瀏覽器爬取網頁，並比對警政署公告的詐騙網站清單交叉驗證。
 
-> 延伸自國科會大專生研究計畫：針對 OCR 辨識不足，以 **NLM 降噪 + Otsu 閾值化** 預處理搭配 **CLIP 零樣本語意篩選** 改善 BERT 輸入品質，AUC-ROC **0.873 → 0.929**
+> 同時延伸至國科會大專生研究計畫：針對 OCR 辨識不足，以 **NLM 降噪 + Otsu 閾值化** 預處理搭配 **CLIP 零樣本語意篩選** 改善 BERT 輸入品質，AUC-ROC **0.873 → 0.929**
 
 `PyTorch` `BERT` `PaddleOCR` `Flask` `Next.js` `React` `Firebase`
 
@@ -60,7 +64,7 @@
 
 | 專案 | 一句話 | 技術 |
 |---|---|---|
-| 🧩 [AI 拖延症分析與任務粉碎機](https://github.com/mintguesss/TAICA_LLM) | 分析拖延成因，把大任務粉碎成最小步驟，完成後解鎖可 3D 列印的模型零件（[線上試用](https://taica-llm.onrender.com/)） | `Groq API` `Flask` `Supabase` `STL` |
+| 🧩 [AI 拖延症分析與任務粉碎機](https://github.com/mintguesss/TAICA_LLM) | 分析拖延成因，把大任務粉碎成最小步驟，完成後解鎖可 3D 列印的模型零件 | `Groq API` `Flask` `Supabase` `STL` |
 | 💰 [PromptMiser](https://github.com/mintguesss/PromptMiser) | 即時計算一段文字在各家模型會用掉多少 token、哪家便宜，並壓縮冗詞給出省錢建議 | `Vue 3` `FastAPI` `tiktoken` |
 | 📊 [ClaudeQuota](https://github.com/mintguesss/ClaudeQuota) | Windows 系統列小工具，即時顯示 Claude 訂閱的 5 小時與每週用量 | `Python` `Win32 API` |
 | 🔐 AI 輔助 WAF 攻擊偵測系統 | Human-in-the-Loop 增量學習 + SHAP 可解釋分析，自動生成 WAF 規則建議 | `PyTAIL` `SHAP` `Transformer` |
