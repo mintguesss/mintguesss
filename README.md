@@ -16,7 +16,7 @@
 <br>
 
 <a href="mailto:a03111006@gmail.com"><img src="https://img.shields.io/badge/a03111006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1D23" height="26"></a>
-<a href="https://www.instagram.com/ken._.yuuuu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1A1D23" height="26"></a>
+
 
 </div>
 
