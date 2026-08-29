@@ -10,13 +10,13 @@
 
 <br>
 
-<a href="https://mintguesss.github.io/personal_web"><img src="https://img.shields.io/badge/個人網站-mintguesss.github.io-3B5BDB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1D23" height="46"></a>
+<a href="https://mintguesss.github.io/personal_web"><img src="https://img.shields.io/badge/Website-mintguesss.github.io-3B5BDB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1D23" height="46"></a>
 
 </div>
 
 ---
 
-## 🛡️ [騙局雷達 Fraud Radar](https://github.com/Liao-s-Research-Lab/fraud-radar)
+## 🛡️ [Fraud Radar 騙局雷達](https://github.com/Liao-s-Research-Lab/fraud-radar)
 
 多模態詐騙偵測平台。輸入文字、網址或截圖，回傳詐騙機率與分析報告。
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 👀 [個人助理 Personal Assistant](https://github.com/mintguesss/personal-assistant)
+## 👀 [Personal Assistant 個人助理](https://github.com/mintguesss/personal-assistant)
 
 用筆電鏡頭即時監測坐姿、專注、情緒與飲水，並即時以桌面通知提示。純電腦視覺、本機運行、不需穿戴裝置。
 
@@ -57,9 +57,9 @@
 
 ---
 
-## 其他
+## Other Projects
 
-| 專案 | 做什麼 | 技術 |
+| Project | What it does | Stack |
 |---|---|---|
 | 💰 [PromptMiser](https://github.com/mintguesss/PromptMiser) | 即時計算一段文字在各家模型會用掉多少 token、哪家便宜，並壓縮冗詞給出省錢建議 | `Vue 3` `FastAPI` `tiktoken` |
 | 📊 [ClaudeQuota](https://github.com/mintguesss/ClaudeQuota) | Windows 系統列小工具，即時顯示 Claude 訂閱的 5 小時與每週用量 | `Python` `Win32 API` |
@@ -68,6 +68,6 @@
 
 <div align="center">
 
-更多專案與完整經歷 → **[個人網站](https://mintguesss.github.io/personal_web)**
+More projects & background → **[Website](https://mintguesss.github.io/personal_web)**
 
 </div>
