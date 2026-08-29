@@ -11,8 +11,12 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/作品集-mintguesss.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mintguesss.github.io/personal_web)
-[![Email](https://img.shields.io/badge/Email-a03111006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a03111006@gmail.com)
+<a href="https://mintguesss.github.io/personal_web"><img src="https://img.shields.io/badge/個人網站-mintguesss.github.io-3B5BDB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1D23" height="46"></a>
+
+<br>
+
+<a href="mailto:a03111006@gmail.com"><img src="https://img.shields.io/badge/a03111006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1D23" height="26"></a>
+<a href="https://www.instagram.com/ken._.yuuuu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1A1D23" height="26"></a>
 
 </div>
 
@@ -20,8 +24,8 @@
 
 ## 現在
 
-- 🎓 **國立中央大學 資訊管理研究所** 碩一 —— 電腦視覺 / 機器學習應用 
-- 🔬 **國科會大專生研究計畫**（114-2813-C-030-031-E）—— 多模態詐騙辨識，指導教授：廖建翔
+- 🎓 **國立中央大學 資訊管理研究所** 碩一 —— 電腦視覺 / 機器學習應用
+- 🔬 **國科會大專生研究計畫**〈結合 AI 整合技術以提升詐騙辨識精確度〉—— 114-2813-C-030-031-E · 指導教授：廖建翔
 - 🏆 育秀盃創意獎佳作 · 第 42 屆專題發表優秀組別 · 管理學院學術獎章 ×2 · 書卷獎
 
 ---
@@ -61,10 +65,8 @@
 
 | 專案 | 一句話 | 技術 |
 |---|---|---|
-| 🧩 [AI 拖延症分析與任務粉碎機](https://github.com/mintguesss/TAICA_LLM) | 分析拖延成因，把大任務粉碎成最小步驟，完成後解鎖可 3D 列印的模型零件 | `Groq API` `Flask` `Supabase` `STL` |
 | 💰 [PromptMiser](https://github.com/mintguesss/PromptMiser) | 即時計算一段文字在各家模型會用掉多少 token、哪家便宜，並壓縮冗詞給出省錢建議 | `Vue 3` `FastAPI` `tiktoken` |
 | 📊 [ClaudeQuota](https://github.com/mintguesss/ClaudeQuota) | Windows 系統列小工具，即時顯示 Claude 訂閱的 5 小時與每週用量 | `Python` `Win32 API` |
-| 🔐 AI 輔助 WAF 攻擊偵測系統 | Human-in-the-Loop 增量學習 + SHAP 可解釋分析，自動生成 WAF 規則建議 | `PyTAIL` `SHAP` `Transformer` |
 
 ---
 
@@ -104,8 +106,6 @@
 
 <div align="center">
 
-中文（母語）　·　English（TOEIC 810）
-
-更多專案與完整經歷 → **[作品集網站](https://mintguesss.github.io/personal_web)**
+更多專案與完整經歷 → **[個人網站](https://mintguesss.github.io/personal_web)**
 
 </div>
