@@ -4,9 +4,9 @@
 
 **Computer Vision · Machine Learning · Full-stack**
 
-輔大資管畢業，2026 年起就讀中央資管所<br>
-主要做電腦視覺與詐騙偵測，資料前處理、模型訓練到部署整條自己走<br>
-也寫全端，把模型包成真的跑得起來的東西
+輔大資管畢業，2026 年起就讀中央大學資管所<br>
+Research —— 多模態詐騙偵測、即時電腦視覺，訓練與調校模型<br>
+Engineering —— PyTorch 模型部署，Flask / Next.js 前後端
 
 <br>
 
