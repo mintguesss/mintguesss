@@ -2,11 +2,11 @@
 
 # Ken Huang　黃予岑
 
-**Computer Vision · Machine Learning · Full-stack**
+**Computer Vision · Machine Learning · LLM Agent · Full-stack**
 
 輔大資管畢業，2026 年起就讀中央大學資管所<br>
 Research —— 多模態詐騙偵測、即時電腦視覺，訓練與調校模型<br>
-Engineering —— PyTorch 模型部署，Flask / Next.js 前後端
+Engineering —— PyTorch 模型部署、可驗證的 LLM Agent，Flask / Next.js 前後端
 
 <br>
 
@@ -24,6 +24,20 @@ Engineering —— PyTorch 模型部署，Flask / Next.js 前後端
 > 同時延伸至國科會大專生研究計畫〈結合 AI 整合技術以提升詐騙辨識精確度〉：針對 OCR 辨識不足，以 **NLM denoising + Otsu thresholding** 預處理搭配 **CLIP zero-shot** 語意篩選改善 BERT 輸入品質，AUC-ROC **0.873 → 0.929**
 
 `PyTorch` `BERT` `PaddleOCR` `CLIP` `Flask` `Next.js` `React` `Firebase`
+
+---
+
+## 🎓 [Aidit 修業規劃 Agent](https://github.com/mintguesss/aidit)
+
+會查證、會說「不知道」的畢業審查與選課 Agent。[線上展示](https://aidit-weld.vercel.app)
+在畢業審查場域，答錯的代價遠高於不答：學分由確定性引擎計算，模型只負責理解意圖；規定沒寫清楚的地方不硬算，改列待確認並告訴你該問誰。
+
+- 算學分、排課、原文回查的模組完全不呼叫模型，**CI 做相依分析**強制隔離
+- 每條結論附規定原文引句，對不上就降級為待確認
+- 35 案 golden set **錯答 0**；真實成績單 **10/10**，同一模型直接算 20 次只對 9 次
+- 提示注入攔截率 **100%**、誤攔率 0%
+
+`Next.js` `TypeScript` `Supabase` `Claude API` `LLM Agent`
 
 ---
 
@@ -59,7 +73,9 @@ Engineering —— PyTorch 模型部署，Flask / Next.js 前後端
 | Project | What it does | Stack |
 |---|---|---|
 | 💰 [PromptMiser](https://github.com/mintguesss/PromptMiser) | 即時計算一段文字在各家模型會用掉多少 token、哪家便宜，並壓縮冗詞給出省錢建議 | `Vue 3` `FastAPI` `tiktoken` |
+| 🎙️ [nobook](https://github.com/mintguesss/nobook) | 課堂即時轉錄與筆記：手機錄音、筆電本地跑 ASR + LLM，課還沒下就有能照抄的筆記，不呼叫雲端 API | `faster-whisper` `llama.cpp` `FastAPI` |
 | 📊 [ClaudeQuota](https://github.com/mintguesss/ClaudeQuota) | Windows 系統列小工具，即時顯示 Claude 訂閱的 5 小時與每週用量 | `Python` `Win32 API` |
+| 🧹 [Clean-Contributors](https://github.com/mintguesss/Clean-Contributors) | Claude Code plugin，把不想要的帳號移出 GitHub repo 的 Contributors 名單 | `Shell` `PowerShell` `GitHub API` |
 
 ---
 
