@@ -82,11 +82,6 @@ A personal finance and investment management web app, installable as a PWA.
 
 ---
 
-<!-- repofolio:start -->
-<!-- repofolio:end -->
-
----
-
 <div align="center">
 
 More projects & background → **[Website](https://mintguesss.github.io/personal_web)**

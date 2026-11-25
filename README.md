@@ -82,11 +82,6 @@ Engineering —— PyTorch 模型部署、可驗證的 LLM Agent，Flask / Next.
 
 ---
 
-<!-- repofolio:start -->
-<!-- repofolio:end -->
-
----
-
 <div align="center">
 
 More projects & background → **[Website](https://mintguesss.github.io/personal_web)**
